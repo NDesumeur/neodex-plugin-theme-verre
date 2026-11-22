@@ -1,0 +1,36 @@
+{
+  "id": "neodex.themeverre",
+  "name": "Thème Verre dépoli",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "icon": "icon.png",
+  "neobase": ">=4.1.0",
+  "neodex": ">=3.3.9",
+  "type": "theme",
+  "compatibility": [
+    "windows",
+    "linux",
+    "android"
+  ],
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [],
+  "description": "Moderne : panneaux translucides et flous, coins arrondis, texte net. Un thème de couleurs et de cadres pour NeoDex.",
+  "category": "Thèmes",
+  "themes": [
+    {
+      "id": "verre",
+      "name": "Verre dépoli",
+      "style": "verre",
+      "hue": 228,
+      "sat": 30,
+      "accent": "#7aa8ff",
+      "light": "#d4e2ff",
+      "third": "#ff9ad5",
+      "lift": 2.2,
+      "about": "Moderne : panneaux translucides et flous, coins arrondis, texte net."
+    }
+  ]
+}
